@@ -3,8 +3,8 @@
 ### Reach me out!
 
 [![Mail Badge](https://img.shields.io/badge/-danangekal-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:danangekal@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-Danang%20Eko%20Alfianto-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/danangekal/)
-[![Facebook Badge](https://img.shields.io/badge/-Danang%20Eko%20Alfianto-0e76a8?style=flat&labelColor=0e76a8&logo=facebook&logoColor=white)(https://www.facebook.com/danangekal/)
+[![Linkedin Badge](https://img.shields.io/badge/-Danang%20Eko%20Alfianto-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danangekal/)
+[![Facebook Badge](https://img.shields.io/badge/-Danang%20Eko%20Alfianto-0e76a8?style=flat&labelColor=0e76a8&logo=facebook&logoColor=white)](https://www.facebook.com/danangekal/)
 
 #### Top Technologies
 
