@@ -13,6 +13,10 @@
 [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) 
 [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
 
+### Github Status
+<p><img src="https://github-readme-stats.vercel.app/api?username=danangekal&show_icons=true&theme=nightowl&locale=en" alt="danangekal's github status" /></p>
+<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=danangekal&row=3&column=4&margin-w=15&margin-h=15&theme=dracula&no-bg=true&no-frame=true" alt="danangekal's github trophy" /></a></p>
+
 <!--
 **danangekal/danangekal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
