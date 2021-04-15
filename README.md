@@ -19,8 +19,10 @@
 ### Github Profile Trophy
 [![danangekal's github trophy](https://github-profile-trophy.vercel.app/?username=danangekal&theme=onedark&margin-w=10&margin-h=10&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
+<!--
 ### Wakatime Stats
 [![danangekal's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=danangekal&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
 <!--
 **danangekal/danangekal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
