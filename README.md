@@ -14,10 +14,10 @@
 [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
 
 ### Github Stats
-[![danangekal's gitHub stats](https://github-readme-stats.vercel.app/api?username=danangekal&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![danangekal's gitHub stats](https://github-readme-stats.vercel.app/api?username=danangekal&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Github Profile Trophy
-[![danangekal's github trophy](https://github-profile-trophy.vercel.app/?username=danangekal&theme=onedark&margin-w=10&margin-h=10&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![danangekal's github trophy](https://github-profile-trophy.vercel.app/?username=danangekal&theme=radical&margin-w=20&margin-h=10&&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 ### Wakatime Stats
