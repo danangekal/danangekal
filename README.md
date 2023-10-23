@@ -20,7 +20,7 @@
 [![danangekal's github trophy](https://github-profile-trophy.vercel.app/?username=danangekal&theme=radical&margin-w=20&margin-h=10&&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### Holopin Board
-[![@danangekal's Holopin board](https://holopin.io/api/user/board?user=danangekal)](https://holopin.io/@danangekal)
+[![An image of @danangekal's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/danangekal)](https://holopin.io/@danangekal)
 
 <!--
 ### Wakatime Stats
